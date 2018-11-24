@@ -1,6 +1,7 @@
 package com.mgcoco.subtypedialog;
 
-@SuppressWarnings("unchecked")
+import java.io.Serializable;
+
 public class BaseCategoryModel implements Serializable{
 
     String name;
