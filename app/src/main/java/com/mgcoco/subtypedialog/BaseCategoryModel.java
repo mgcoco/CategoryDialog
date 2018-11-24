@@ -1,6 +1,6 @@
 package com.mgcoco.subtypedialog;
 
-public class BaseCategoryModel{
+public class BaseCategoryModel implements Serializable{
 
     String name;
 
