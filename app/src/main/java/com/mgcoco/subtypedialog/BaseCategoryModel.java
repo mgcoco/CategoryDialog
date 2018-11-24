@@ -2,9 +2,9 @@ package com.mgcoco.subtypedialog;
 
 public class BaseCategoryModel{
 
-    private String name;
+    String name;
 
-    private boolean isPick;
+    boolean isPick;
 
     public String getName() {
         return name;
